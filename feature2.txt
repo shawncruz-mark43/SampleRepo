@@ -1,1 +1,7 @@
 I am a rainbow colored banner. <this is a stashed feature>
+Here is a footer that looks like a pigs foot.
+
+This is a divergant line, but it proves how easy it is to merge and add text via Meld.
+Thus, meld is awesome!
+
+This is just to test diff.
