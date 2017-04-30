@@ -1,1 +1,1 @@
-I am a rainbow colored banner.
+I am a rainbow colored banner. <this is a stashed feature>
